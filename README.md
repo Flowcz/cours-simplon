@@ -15,5 +15,11 @@ J'ai 26 ans et je suis graphiste de formation.
 
 # Pourqoui je suis sur Simplon.co
 
-Je suis sur simplon car, je souhaite apprendre le métier de développeur web.
-Je suis passionné depuis mon plus jeune âge à l'informatique.
+Je suis sur simplon car, je souhaite apprendre le métier de développeur web pour me reconvertir.
+Je me passionne depuis mon plus jeune âge à l'informatique.
+
+# Badges Codecademy.com
+
+https://www.codecademy.com/fr/slam60
+
+
